@@ -1,0 +1,23 @@
+#pricing {
+    background: linear-gradient(0deg, rgba(17,17,17,0.9), rgba(17,17,17,0.9)),url("https://freepik.cdnpk.net/assets/964f58b6a12e1b2e627e8d505958023b.png");
+    position: relative;
+    overflow: hidden;
+    z-index: -1;
+
+}
+.light-ellipse {
+  width: 779px;
+  height: 391px;
+}
+.light-ellipse {
+  position: absolute;
+  margin-right: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background: rgba(232, 172, 234, 0.55);
+  opacity: 0.7;
+  -webkit-filter: blur(170px);
+  filter: blur(170px);
+}

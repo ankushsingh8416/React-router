@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* body{
+    background: linear-gradient(0deg, rgba(17,17,17,0.9), rgba(17,17,17,0.9)),url("https://freepik.cdnpk.net/assets/964f58b6a12e1b2e627e8d505958023b.png");
+    position: relative;
+    overflow: hidden;
+    z-index: -1;
+} */
