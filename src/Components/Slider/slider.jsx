@@ -21,7 +21,7 @@ const Slider = () => {
       <SwiperSlide>
         <img
           className="w-full h-screen object-cover	"
-          src="/public/banner2.jpg"
+          src="https://images.pexels.com/photos/3184398/pexels-photo-3184398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           alt=""
         />
       </SwiperSlide>
@@ -29,7 +29,7 @@ const Slider = () => {
       <SwiperSlide>
         <img
           className="w-full h-screen object-cover	"
-          src="/public/banner.avif"
+          src="../public/banner.avif"
           alt=""
         />
       </SwiperSlide>
