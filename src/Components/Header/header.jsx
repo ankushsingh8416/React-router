@@ -29,7 +29,7 @@ const Header = () => {
           <ul className="inline-flex space-x-8">
             <li>
               <NavLink
-                to={"home"}
+                to={"/"}
                 className={({ isActive }) =>
                   `text-sm ${
                     isActive ? "text-orange-400" : "text-gray-800"
